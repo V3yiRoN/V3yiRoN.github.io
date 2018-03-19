@@ -16,7 +16,7 @@ linkedin_url: https://www.linkedin.com/in/david-lindell-farken-1274313b/
 #twitter_url: https://twitter.com/chrisbobbe
 
 # SEO settings
-google_analytics: UA-112211352-1
+#google_analytics: UA-112211352-1
 
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
