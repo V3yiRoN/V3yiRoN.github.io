@@ -1,21 +1,21 @@
-title: Chris Bobbe
-subtitle: Web Developer
-description: Website and portfolio of Chris Bobbe, front-end web developer.
+title: David Lindell Farken 
+subtitle: Sound Engineer 
+description: Website and portfolio of David Lindell Farken, Sound Engineer, Light Technician, Stagecrafter.
 
-author: Chris Bobbe
-email: csbobbe@gmail.com
+author: David Lindell Farken 
+email: davidlindellfarken@lfproductions.se
 avatar: assets/images/avatar.jpg
 
 baseurl: ""
 url: "https://v3yiron.github.io"
 
-# Social settings
-facebook_url: https://www.facebook.com/chris.bobbe
-github_url: https://github.com/chrisbobbe
-linkedin_url: https://www.linkedin.com/in/chrisbobbe1995/
-twitter_url: https://twitter.com/chrisbobbe
+ #Social settings
+facebook_url: https://www.facebook.com/davidlindellfarken
+github_url: https://github.com/v3yiron
+linkedin_url: https://www.linkedin.com/in/david-lindell-farken-1274313b/
+#twitter_url: https://twitter.com/chrisbobbe
 
-# SEO settiongs
+# SEO settings
 google_analytics: UA-112211352-1
 
 # Build settings
