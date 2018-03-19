@@ -8,4 +8,4 @@ order: 2
 
 I'm a sound technician!
 
-I'm currently working with different projects with several companies and customers solving technical issues and providing the best sound quality relative to acoustics and audiovisual design involving lights and images.
+I'm currently working with different projects with several companies and customers solving technical issues and providing the best sound quality relative to acoustics and audiovisual design involving lights and images in a harmonious rhythmic fashion.
