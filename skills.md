@@ -30,12 +30,12 @@ order: 2
 * Synchronising external audio recorders with industry standard camera setups 
 * Experiences with industry standard adobe software 
 
-### Stagecrafting, showbusiness 
+### Stagecrafting, show business 
 * Previous experienced collaborating with external companies rigging and mounting up stages with props.
 
 -----------------
 
-#<img src="assets/images/car.png" alt="Demo: Command-line Car" style="border: 1px solid black"/>
+<img src="assets/images/Middagsshow.jpg" alt="Demo: Command-line Car" style="border: 1px solid black"/>
 
 ## Other
 
