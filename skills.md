@@ -31,9 +31,7 @@ order: 2
 * Experiences with industry standard adobe software 
 
 ### Stagecrafting, show business 
-* Previous experienced collaborating with external companies rigging and mounting up stages with props.
-
------------------
+* Previous experiences collaborating with external companies rigging and mounting up stages with props
 
 <img src="assets/images/Middagsshow.jpg" alt="Demo: Command-line Car" style="border: 1px solid black"/>
 
